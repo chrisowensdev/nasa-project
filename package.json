@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/chrisowensdev/nasa-project/issues"
   },
-  "homepage": "https://github.com/chrisowensdev/nasa-project#readme"
+  "homepage": "https://github.com/chrisowensdev/nasa-project#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
